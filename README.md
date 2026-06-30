@@ -1,16 +1,50 @@
+[README.md](https://github.com/user-attachments/files/29492239/README.md)
 ## Hi there 👋
+```
+┌─[ tim_oh ]────────────────────────────────────────────[ timoh.dev ]─┐
+│                                                                     │
+│   ████████ ██ ███    ███      ██████  ██   ██                       │
+│      ██    ██ ████  ████     ██    ██ ██   ██                       │
+│      ██    ██ ██ ████ ██     ██    ██ ███████                       │
+│      ██    ██ ██  ██  ██     ██    ██ ██   ██                       │
+│      ██    ██ ██      ██      ██████  ██   ██                       │
+│                                                                     │
+│   ♥ ♥ ♥    PLAYER 1    CLASS: full-stack    LVL: 23                 │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
+```
 
-<!--
-**git-timoh/git-timoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+╔══════════════════════════════════════════════════════════╗
+║  ►  PRESS START.  building at the ai + systems edge.     ║
+║  ►  now questing for internships. ▸ math @ uwaterloo.    ║
+╚══════════════════════════════════════════════════════════╝
+```
 
-Here are some ideas to get you started:
+```
+> ls ~/quests            // work
+    ▸ AMD
+    ▸ Ford
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+> ls ~/cartridges        // projects
+    ▸ AgentSearch.MCP
+    ▸ DecisionGraph.AI
+```
+
+```
+> ./abilities
+    PYTHON  ▰▰▰▰▰   TYPESCRIPT  ▰▰▰▰▱   REACT  ▰▰▰▰▱
+    FASTAPI ▰▰▰▰▱   LLMS        ▰▰▰▰▰   K8S    ▰▰▰▱▱
+```
+
+```
+> ./connect
+```
+
+[`timoh.dev`](https://timoh.dev) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/tim-oh) &nbsp;·&nbsp; [`email`](mailto:tim.oh@uwaterloo.ca)
+
+```
+░▒▓█ INSERT COIN TO CONTINUE █▓▒░
+```
