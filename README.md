@@ -1,6 +1,3 @@
-[README.md](https://github.com/user-attachments/files/29492239/README.md)
-## Hi there 👋
-```
 ┌─[ tim_oh ]────────────────────────────────────────────[ timoh.dev ]─┐
 │                                                                     │
 │   ████████ ██ ███    ███      ██████  ██   ██                       │
