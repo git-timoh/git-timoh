@@ -1,48 +1,70 @@
 ```
-┌─[ tim_oh ]────────────────────────────────────────────[ timoh.dev ]─┐
-│                                                                     │
-│   ████████ ██ ███    ███      ██████  ██   ██                       │
-│      ██    ██ ████  ████     ██    ██ ██   ██                       │
-│      ██    ██ ██ ████ ██     ██    ██ ███████                       │
-│      ██    ██ ██  ██  ██     ██    ██ ██   ██                       │
-│      ██    ██ ██      ██      ██████  ██   ██                       │
-│                                                                     │
-│   ♥ ♥ ♥    PLAYER 1    CLASS: full-stack    LVL: ∞    COIN ×27      │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+┌─[ tim_oh ]─────────────────────────────────────────────[ timoh.dev ]─┐
+│                                                                      │
+│   ████████ ██ ███    ███      ██████  ██   ██                        │
+│      ██    ██ ████  ████     ██    ██ ██   ██                        │
+│      ██    ██ ██ ████ ██     ██    ██ ███████                        │
+│      ██    ██ ██  ██  ██     ██    ██ ██   ██                        │
+│      ██    ██ ██      ██      ██████  ██   ██                        │
+│                                                                      │
+│   ♥ ♥ ♥   PLAYER 1   CLASS : full-stack   LEVEL: 23                  │
+│                                                                      │
+└──────────────────────────────────────────────────────────────────────┘
 ```
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  ►  PRESS START.  building at the ai + systems edge.     ║
-║  ►  now questing for internships. ▸ math @ uwaterloo.    ║
-╚══════════════════════════════════════════════════════════╝
+╔═══════════════════════════════════════════════════════════╗
+║  ►  PRESS START.  building + learning + experimenting     ║
+║  ►  math @ uwaterloo.  now questing for internships.      ║
+╚═══════════════════════════════════════════════════════════╝
 ```
 
 ```
-> ls ~/quests            // work
-    ▸ AMD
-    ▸ Ford
-```
-
-```
-> ls ~/cartridges        // projects
-    ▸ AgentSearch.MCP
-    ▸ DecisionGraph.AI
+                  █     █
+                   █   █
+                  ███████
+                 ██ ███ ██
+                ███████████
+                █ ███████ █
+                █ █     █ █
+                   ██ ██
+              -- insert coin --
 ```
 
 ```
 > ./abilities
-    PYTHON  ▰▰▰▰▰   TYPESCRIPT  ▰▰▰▰▱   REACT  ▰▰▰▰▱
-    FASTAPI ▰▰▰▰▱   LLMS        ▰▰▰▰▰   K8S    ▰▰▰▱▱
+    PYTHON   ▰▰▰▰▰     TYPESCRIPT ▰▰▰▰▱     REACT   ▰▰▰▰▱
+    FASTAPI  ▰▰▰▰▰     LLMS       ▰▰▰▰▰     AGENTS  ▰▰▰▰▰
+```
+
+```
+                                   /\
+                              /\  //\\
+                       /\    //\\///\\\        /\
+                      //\\  ///\////\\\\  /\  //\\
+         /\          /  ^ \/^ ^/^  ^  ^ \/^ \/  ^ \
+        / ^\    /\  / ^   /  ^/ ^ ^ ^   ^\ ^/  ^^  \
+       /^   \  / ^\/ ^ ^   ^ / ^  ^    ^  \/ ^   ^  \       *
+      /  ^ ^ \/^  ^\ ^ ^ ^   ^  ^   ^   ____  ^   ^  \     /|\
+     / ^ ^  ^ \ ^  _\___________________|  |_____^ ^  \   /||o\
+    / ^^  ^ ^ ^\  /______________________________\ ^ ^ \ /|o|||\
+   /  ^  ^^ ^ ^  /________________________________\  ^  /|||||o|\
+  /^ ^  ^ ^^  ^    ||___|___||||||||||||___|__|||      /||o||||||\
+ / ^   ^   ^    ^  ||___|___||||||||||||___|__|||          | |
+/ ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo
+ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ```
 
 ```
 > ./connect
+    ┌───────────┐  ┌────────────┐  ┌─────────────────────┐
+    │  website  │  │  linkedin  │  │        email        │
+    │ timoh.dev │  │ /in/tim-oh │  │ tim.oh@uwaterloo.ca │
+    └───────────┘  └────────────┘  └─────────────────────┘
 ```
 
-[`timoh.dev`](https://timoh.dev) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/tim-oh) &nbsp;·&nbsp; [`email`](mailto:tim.oh@uwaterloo.ca)
+[`website`](https://timoh.dev) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/tim-oh) &nbsp;·&nbsp; [`email`](mailto:tim.oh@uwaterloo.ca)
 
 ```
-░▒▓█ INSERT COIN TO CONTINUE █▓▒░
+░▒▓█ GAME OVER?  CONTINUE? ▸ YES █▓▒░
 ```
