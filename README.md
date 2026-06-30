@@ -20,9 +20,8 @@
 ```
 
 ```
-> ./abilities
-    PYTHON   ▰▰▰▰▰     TYPESCRIPT ▰▰▰▰▱     REACT   ▰▰▰▰▱
-    FASTAPI  ▰▰▰▰▰     LLMS       ▰▰▰▰▰     AGENTS  ▰▰▰▰▰
+PYTHON   ▰▰▰▰▰     TYPESCRIPT ▰▰▰▰▱     REACT   ▰▰▰▰▱
+FASTAPI  ▰▰▰▰▰     LLMS       ▰▰▰▰▰     AGENTS  ▰▰▰▰▰
 ```
 
 ```
