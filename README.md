@@ -20,18 +20,6 @@
 ```
 
 ```
-                  █     █
-                   █   █
-                  ███████
-                 ██ ███ ██
-                ███████████
-                █ ███████ █
-                █ █     █ █
-                   ██ ██
-              -- insert coin --
-```
-
-```
 > ./abilities
     PYTHON   ▰▰▰▰▰     TYPESCRIPT ▰▰▰▰▱     REACT   ▰▰▰▰▱
     FASTAPI  ▰▰▰▰▰     LLMS       ▰▰▰▰▰     AGENTS  ▰▰▰▰▰
@@ -54,15 +42,6 @@
 / ^ ^ ^  ^  ^  ^   ||||||||||||||||||||||||||||||oooooooooo| |ooooooo
 ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 ```
-
-```
-> ./connect
-    ┌───────────┐  ┌────────────┐  ┌─────────────────────┐
-    │  website  │  │  linkedin  │  │        email        │
-    │ timoh.dev │  │ /in/tim-oh │  │ tim.oh@uwaterloo.ca │
-    └───────────┘  └────────────┘  └─────────────────────┘
-```
-
 [`website`](https://timoh.dev) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/tim-oh) &nbsp;·&nbsp; [`email`](mailto:tim.oh@uwaterloo.ca)
 
 ```
