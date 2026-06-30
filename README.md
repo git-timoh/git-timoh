@@ -1,5 +1,5 @@
 ```
-┌─[ tim_oh ]─────────────────────────────────────────────[ timoh.dev ]─┐
+┌────────────────────────────────────────────────────────────[ ● ● ● ]─┐
 │                                                                      │
 │   ████████ ██ ███    ███      ██████  ██   ██                        │
 │      ██    ██ ████  ████     ██    ██ ██   ██                        │
@@ -7,7 +7,7 @@
 │      ██    ██ ██  ██  ██     ██    ██ ██   ██                        │
 │      ██    ██ ██      ██      ██████  ██   ██                        │
 │                                                                      │
-│   ♥ ♥ ♥   PLAYER 1   CLASS : full-stack   LEVEL: 23                  │
+│   ♥ ♥ ♥   PLAYER 1   CLASS : full-stack/ai   LEVEL: 23               │
 │                                                                      │
 └──────────────────────────────────────────────────────────────────────┘
 ```
@@ -15,7 +15,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║  ►  PRESS START.  building + learning + experimenting     ║
-║  ►  student @ uwaterloo.  now questing for internships.   ║
+║  ►  reading + poker after hours.  open to internships!    ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
@@ -45,5 +45,5 @@ ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo
 [`website`](https://timoh.dev) &nbsp;·&nbsp; [`linkedin`](https://linkedin.com/in/tim-oh) &nbsp;·&nbsp; [`email`](mailto:tim.oh@uwaterloo.ca)
 
 ```
-░▒▓█ GAME OVER?  CONTINUE? ▸ YES █▓▒░
+░▒▓█ GAME OVER? ▸ LET'S CONNECT █▓▒░
 ```
