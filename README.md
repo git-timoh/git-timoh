@@ -15,7 +15,7 @@
 ```
 ╔═══════════════════════════════════════════════════════════╗
 ║  ►  PRESS START.  building + learning + experimenting     ║
-║  ►  math @ uwaterloo.  now questing for internships.      ║
+║  ►  student @ uwaterloo.  now questing for internships.   ║
 ╚═══════════════════════════════════════════════════════════╝
 ```
 
